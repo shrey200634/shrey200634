@@ -19,15 +19,6 @@
 
 ---
 
-<h2 align="center">🏆 Problem Solving</h2>
-<div align="center">
-  <a href="https://leetcode.com/u/dshrey/">
-    <img src="https://leetcard.jacoblin.cool/dshrey?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats" />
-  </a>
-</div>
-
----
-
 <h2 align="center">⚙️ Tech Arsenal</h2>
 
 <div align="center">
@@ -59,13 +50,11 @@
 
 ---
 
-<h2 align="center">⚡ The Wild Side</h2>
-<div align="center" style="font-size:1.1em;">
-
-💥 <b>WARNING:</b> Code may compile on the first try (rarely).<br/>
-☕ Powered by coffee and `System.out.println("It works!");`<br/>
-☁️ My head is literally in the Cloud (Computing).<br/>
-
+<h2 align="center">🏆 Problem Solving</h2>
+<div align="center">
+  <a href="https://leetcode.com/u/dshrey/">
+    <img src="https://leetcard.jacoblin.cool/dshrey?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats" />
+  </a>
 </div>
 
 ---
