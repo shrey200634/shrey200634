@@ -10,6 +10,7 @@
 
 <h2 align="center">🚀 About Me</h2>
 <p align="center">
+     <b> Backened Intern @Springer Capital <br/>
   🎓 <b>B.Tech @ VIT Bhopal | CSE (Cloud Computing & Automation)</b> <br/>
   🧠 <b>Currently Exploring:</b> Advanced Backend Architecture, Microservices, React.js<br/>
   💻 <b>Tech Stack:</b> Java, Spring Boot, Kafka, RabbitMQ, Docker, MySQL<br/>
