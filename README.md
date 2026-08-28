@@ -1,98 +1,162 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=6C63FF&center=true&vCenter=true&width=950&height=60&lines=Hi+%F0%9F%91%8B%2C+I'm+Shrey+Dave;Backend+Developer+%7C+Cloud+Enthusiast;Architecting+Scalable+Systems;Automating+the+Future!" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Welcome-Human!-6C63FF?style=for-the-badge&logo=github&logoColor=white" />
-</p>
-
----
-
-<h2 align="center">🚀 About Me</h2>
-<p align="center">
-     <b> Backened Intern @Springer Capital <br/>
-     <b>B.Tech @ VIT Bhopal | CSE (Cloud Computing & Automation)</b> <br/>
-     <b>Currently Exploring:</b> Advanced Backend Architecture, Microservices, React.js<br/>
-     <b>Tech Stack:</b> Java, Spring Boot, Kafka, RabbitMQ, Docker, MySQL<br/>
-     <b>Specialization:</b> Scalable Backend Systems & Auth Services<br/>
-     <b>Fun Fact:</b> I treat servers like pets and debugging is my cardio.<br/>
-</p>
-
----
-
-<h2 align="center">⚙️ Tech Arsenal</h2>
-
 <div align="center">
 
-### 🗣️ Languages
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-
-### 🧩 Backend, Database & Messaging
-<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white"/>
-<img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white"/>
-<img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white"/>
-<img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white"/>
-
-### 🖥️ Frontend (Learning)
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-
-### ☁️ DevOps, OS & Tools
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+```
+┌─────────────────────────────────────────────────────────┐
+│  root@shrey-dave:~$ ./boot_profile.sh                    │
+│                                                           │
+│  [ OK ] Loading identity ......... shrey_dave             │
+│  [ OK ] Mounting stack ........... java / spring / kafka  │
+│  [ OK ] Starting services ........ backend-engineer.svc   │
+│  [ OK ] Uptime ................... building since 2024    │
+│                                                           │
+│  system ready.                                            │
+└─────────────────────────────────────────────────────────┘
+```
 
 </div>
 
----
+<h3 align="center">Backend Engineer — Distributed Systems & Event-Driven Architecture</h3>
+<p align="center"><sub>B.Tech CSE (Cloud Computing & Automation), VIT Bhopal · Noida, India</sub></p>
 
-<h2 align="center">🏆 Problem Solving</h2>
+<p align="center">
+  <a href="mailto:dshrey60@gmail.com">Email</a> ·
+  <a href="https://linkedin.com/in/shrey-dave-326528325/">LinkedIn</a> ·
+  <a href="https://github.com/shrey200634">GitHub</a> ·
+  <a href="https://leetcode.com/u/dshrey/">LeetCode</a>
+</p>
+
+<br/>
+
+### `$ whoami`
+
+I build backend systems that stay correct under load — event-driven services, idempotent job processing, and the failure-handling that keeps them boring in production. Most of what's below started as a "will this actually survive concurrent load" question, then got benchmarked until it had an answer.
+
+Recently wrapped a backend engineering internship at a US fintech, where I spent three months making inter-service calls harder to forge and ETL pipelines harder to break.
+
+<br/>
+
+### `$ cat //work/springer-capital.log`
+
+**Backend Engineering Intern · Springer Capital Investments LLC** — *Mar 2026 – Jun 2026 (Remote, Dover, DE)*
+
+```diff
++ Locked down 4+ inter-service API calls against replay attacks with HMAC-SHA256
+  request signing at the Spring Security layer, ahead of production rollout.
+
++ Shipped 6+ Apache Airflow ETL pipelines with idempotent retries and exponential
+  backoff — zero manual intervention needed on failure.
+
++ Wrote integration/unit test suites validating REST contracts pre-deployment,
+  cutting production rollback incidents by 40%.
+
++ Defined RESTful API contracts across 2 cross-service integrations to kill
+  contract drift before it reached consumers.
+```
+
+<br/>
+
+### `$ ls ./featured-builds/`
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**🚨 AI Incident Commander**
+
+Event-driven incident response platform on CQRS — command and query services run independently, with an AI agent that diagnoses and proposes fixes for a human to approve.
+
+- Dual-LLM agent (Gemini 2.5 Flash → Groq LLaMA 3.3 70B fallback) reasoning over live Prometheus metrics through 6 diagnostic tools
+- Redis-backed idempotency keys behind a JWT-secured WebSocket dashboard, so nothing gets double-executed
+- Resilience4j circuit breaker falling back to cached Redis snapshots when Prometheus goes down
+- Docker-based execution engine with a MySQL dead-letter-queue recovery pipeline
+
+`Java 21 · Spring Boot · Spring AI · Kafka · Redis · MySQL · React · Docker`
+
+</td>
+<td width="50%" valign="top">
+
+**🍔 FoodRush**
+
+Backend for a full-stack delivery platform — ordering, payments, and live tracking split across 8 independent services.
+
+- Fault-tolerant checkout: a failed payment automatically reverses the order and refunds across every affected service
+- Gemini-powered assistant for natural-language ordering and wallet queries
+- Load-tested to **5,000 concurrent users at 239 req/sec, 0% errors**, with live dashboards for system health
+
+`Java 21 · Spring Boot · Kafka · Spring AI · React`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**⚙️ DistributedJobForge**
+
+Distributed job-scheduling platform that runs thousands of tasks across multiple workers without losing any of them, even when a worker dies mid-job.
+
+- Automatic dependency resolution so dependent jobs always run in the correct order cluster-wide
+- Token-bucket rate limiter throttling submission/execution to protect downstream services during spikes
+- Java virtual threads pushed throughput to **1,735 jobs/min, 0% errors across 20,000 jobs**
+
+`Java 21 · Spring Boot · Kafka · Redis · Docker`
+
+</td>
+<td width="50%" valign="top">
+
+**🚦 Rate Limiter Suite**
+
+Five rate-limiting algorithms — Fixed Window, Token Bucket, Leaky Bucket, Sliding Window Log, Sliding Window Counter — shipped as independent, swappable Spring Boot services.
+
+- Redis + Lua scripting for atomic, race-free limit checks
+- Full HLD/LLD design docs written for each algorithm before implementation
+
+`Java · Spring Boot · Redis · Lua`
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+### `$ cat //stack.json`
+
+```
+{
+  "languages"     : ["Java", "Python", "SQL", "JavaScript"],
+  "backend"       : ["Spring Boot", "Spring Security", "REST APIs", "Microservices", "JWT"],
+  "data_layer"    : ["MySQL", "MongoDB", "Redis"],
+  "streaming"     : ["Apache Kafka", "Event-Driven Architecture"],
+  "cloud_devops"  : ["AWS EC2", "Docker", "CI/CD", "Git"],
+  "foundations"   : ["DSA", "OOP", "DBMS", "Operating Systems", "System Design (HLD/LLD)"],
+  "learning_now"  : ["React.js", "advanced backend architecture"]
+}
+```
+
+<br/>
+
+### `$ cat //stats.log`
+
+- 🧩 300+ LeetCode problems solved across arrays, trees, graphs, DP, and backtracking — 100+ day daily streak
+- 📦 1,000+ GitHub contributions across backend and distributed-systems projects
+- 🎓 Core Member — Fusion Club & DSA Community, VIT Bhopal
+
 <div align="center">
-  <a href="https://leetcode.com/u/dshrey/">
-    <img src="https://leetcard.jacoblin.cool/dshrey?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats" />
-  </a>
-</div>
-
----
-
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=shrey200634&theme=tokyonight&hide_border=true" />
+  <br/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=shrey200634&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true" />
+  <img height="165em" src="https://leetcard.jacoblin.cool/dshrey?theme=dark&font=Fira%20Code&ext=heatmap" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shrey200634&theme=tokyo-night&hide_border=true" />
+
+```
+root@shrey-dave:~$ status --current
+> targeting backend SDE roles @ fintech product companies
+> open to distributed systems / platform engineering work
+> always down to talk system design over chai
+```
+
+<sub>Profile views: <img src="https://komarev.com/ghpvc/?username=shrey200634&style=flat&color=39FF14" alt="views" valign="middle"/></sub>
+
 </div>
-
----
-
-<h2 align="center">🌐 Connect with Me</h2>
-
-<p align="center">
-  <a href="mailto:dshrey60@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/shrey-dave-326528325/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/shrey200634" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://leetcode.com/u/dshrey/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shrey200634&style=flat-square&color=6C63FF" alt="Profile views"/>
-</p>
-
-<p align="center">
-  <i>“Turning coffee into scalable backend architecture.”</i>
-</p>
