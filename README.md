@@ -53,7 +53,7 @@ I build backend systems that stay correct under load — event-driven services, 
 
 <br/>
 
-## 🚀 `$ cat //projects/ai-incident-commander.log`
+##  `$ cat //projects/ai-incident-commander.log`
 
 **AI Incident Commander** — an event-driven incident response platform built on CQRS, where an autonomous agent diagnoses production issues and proposes fixes for a human to approve.
 
