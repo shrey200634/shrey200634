@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center"> 
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1A1B26,50:24283B,100:565F89&height=210&section=header&text=SHREY%20DAVE&fontSize=52&fontColor=E0AF68&animation=fadeIn&fontAlignY=38&desc=Backend%20Engineer%20%C2%B7%20Distributed%20Systems%20%26%20Event-Driven%20Architecture&descAlignY=56&descSize=16" />
 
@@ -21,7 +21,7 @@
 
 ## 🧠 `$ whoami`
 
-I build backend systems that stay correct under load — event-driven services, idempotent job processing, and the failure-handling that keeps things boring in production. Recently wrapped a backend engineering internship at a US fintech, hardening inter-service calls and ETL pipelines against exactly the kind of thing that pages you at 3am.
+I build backend systems that stay correct under load — event-driven services, idempotent job processing, and the failure-handling that keeps things boring in production. Recently wrapped a backend engineering internship at a US based fintech, hardening inter-service calls and ETL pipelines against exactly the kind of thing that pages you at 3am.
 
 <br/>
 
