@@ -6,7 +6,7 @@
   <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=22&pause=900&color=E0AF68&center=true&vCenter=true&width=620&lines=Building+event-driven+backend+systems;Java+%C2%B7+Spring+Boot+%C2%B7+Kafka+%C2%B7+Redis;Making+distributed+systems+survive+load;Fintech+%E2%86%92+Backend+SDE" alt="Typing SVG" />
 </a>
 
-<sub>B.Tech CSE (Cloud Computing &amp; Automation), VIT Bhopal &nbsp;·&nbsp; Noida, India</sub>
+<sub>B.Tech CSE (Cloud Computing &amp; Automation),  VIT Bhopal &nbsp;·&nbsp; Noida, India</sub>
 
 <br/><br/>
 
