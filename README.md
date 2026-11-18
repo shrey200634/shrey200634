@@ -19,7 +19,7 @@
 
 <br/>
 
-## 🧠 `$ whoami`
+## `$ whoami`
 
 I build backend systems that stay correct under load — event-driven services, idempotent job processing, and the failure-handling that keeps things boring in production. Recently wrapped a backend engineering internship at a US based fintech, hardening inter-service calls and ETL pipelines against exactly the kind of thing that pages you at 3am.
 
